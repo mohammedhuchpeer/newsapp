@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306250355447",
+    "firebase_url": "https://signintest-cc3d5.firebaseio.com",
+    "project_id": "signintest-cc3d5",
+    "storage_bucket": "signintest-cc3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306250355447:android:4b423cd28059939540f9f2",
+        "android_client_info": {
+          "package_name": "com.test.expo.googlesignin.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306250355447-k3ls7siv6kj3sjrkeeg6u5qb6vubpr3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv67vRZ0m7CZR9JY7mdRMkhnCgEzNwBQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306250355447-k3ls7siv6kj3sjrkeeg6u5qb6vubpr3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
